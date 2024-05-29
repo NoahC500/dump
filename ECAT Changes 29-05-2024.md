@@ -34,9 +34,17 @@
 ### Rest of Lords Paragraph
 - `the House` > `the House of Lords`
 
-- `Lord Temporals` > `Lords Temporal` (was typo)
+- `Lord Temporals (non-iC)` > `Lords Temporal [non-iC].` (was typo)
 
 - Lords Spiritual, from: `ex officio their position on the Supreme Court` to: `ex officio their position as Supreme Court Justices`
 
+### Lords not employees
+- Fixed double space from `People can become lords by either  being appointed after [...]`
+
 ### Quiz
 - SotH to also include ` / Their Deputy`
+
+### General
+- All rank type lists and `Common activities` list indented
+
+- Added full stops to end of sentences where missing (probably still missing some lol)
