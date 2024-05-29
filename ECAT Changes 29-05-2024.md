@@ -5,6 +5,11 @@
 
 - `HR MPs are also either ministers`; From: `ministers` To: `Secretaries or Ministers`
 
+- Add at end of paragraph per Faiqh's suggestion:
+> `The Official Opposition is a group of members who aim to challenge the Government.`
+>
+> `Their Secretaries and Ministers ’shadow’ the Government Ministers, and critique their policy.`
+
 ### Commons Leadership
 - `Senior Leadership consists of:`; Strip `Senior `
 
